@@ -9,16 +9,13 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on **my Blue Teaming skills** <br>
- 🌱 I’m learning **everything I can**
+ 🔭 I’m currently working on <b> my Blue Teaming skills<br>
+ 🌱 <b></b> I’m learning everything I can
 </div>
  
 <div align="center"> 
   <a href="mailto:carracerpro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://Azure-160.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
@@ -27,7 +24,7 @@
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,anaconda,assembly" />
 </div>
 
 <br/>
